@@ -1,0 +1,62 @@
+[
+  {
+    "Street": "123 Elm St",
+    "City": "Springfield",
+    "Country": "USA",
+    "ContactId": 1
+  },
+  {
+    "Street": "456 Oak St",
+    "City": "Shelbyville",
+    "Country": "USA",
+    "ContactId": 1
+  },
+  {
+    "Street": "789 Pine St",
+    "City": "Capital City",
+    "Country": "USA",
+    "ContactId": 2
+  },
+  {
+    "Street": "101 Maple Ave",
+    "City": "Metropolis",
+    "Country": "USA",
+    "ContactId": 4
+  },
+  {
+    "Street": "202 Birch Rd",
+    "City": "Smalltown",
+    "Country": "USA",
+    "ContactId": 5
+  },
+  {
+    "Street": "303 Cedar Ln",
+    "City": "Lakeside",
+    "Country": "USA",
+    "ContactId": 6
+  },
+  {
+    "Street": "404 Spruce Blvd",
+    "City": "Rivertown",
+    "Country": "USA",
+    "ContactId": 7
+  },
+  {
+    "Street": "505 Willow Dr",
+    "City": "Hill Valley",
+    "Country": "USA",
+    "ContactId": 8
+  },
+  {
+    "Street": "606 Aspen Ct",
+    "City": "Oceanview",
+    "Country": "USA",
+    "ContactId": 9
+  },
+  {
+    "Street": "707 Palm St",
+    "City": "Sunnyville",
+    "Country": "USA",
+    "ContactId": 10
+  }
+]

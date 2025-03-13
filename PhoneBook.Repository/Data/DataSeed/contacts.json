@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "John Doe",
+    "PhoneNumber": "123-456-7890",
+    "Email": "john.doe@example.com"
+  },
+  {
+    "Name": "Jane Smith",
+    "PhoneNumber": "234-567-8901",
+    "Email": "jane.smith@example.com"
+  },
+  {
+    "Name": "Sam Green",
+    "PhoneNumber": "345-678-9012",
+    "Email": "sam.green@example.com"
+  },
+  {
+    "Name": "Alice Johnson",
+    "PhoneNumber": "456-789-0123",
+    "Email": "alice.johnson@example.com"
+  },
+  {
+    "Name": "Bob Brown",
+    "PhoneNumber": "567-890-1234",
+    "Email": "bob.brown@example.com"
+  },
+  {
+    "Name": "Charlie Davis",
+    "PhoneNumber": "678-901-2345",
+    "Email": "charlie.davis@example.com"
+  },
+  {
+    "Name": "Diana Evans",
+    "PhoneNumber": "789-012-3456",
+    "Email": "diana.evans@example.com"
+  },
+  {
+    "Name": "Ethan Harris",
+    "PhoneNumber": "890-123-4567",
+    "Email": "ethan.harris@example.com"
+  },
+  {
+    "Name": "Fiona Clark",
+    "PhoneNumber": "901-234-5678",
+    "Email": "fiona.clark@example.com"
+  },
+  {
+    "Name": "George Lewis",
+    "PhoneNumber": "012-345-6789",
+    "Email": "george.lewis@example.com"
+  }
+]
